@@ -6,7 +6,7 @@ categories: business
 
 It's not what you know; it’s who you know, but if your career changer and you're not allowed to meet people in person, how the heck do you meet anyone? Today I'm going to talk to you about how to virtually grow your network using tools and websites you already have access to.
 
-
+### Here's the Agenda
 * Before you reach out
 * How to find people to reach out to
 * What to say when you're reaching out
@@ -35,3 +35,9 @@ My Go-to message: hey, my name is Thor. I saw you in this YouTube video and want
 ### How to set up the appointment
 
 Mention that you want to be on Video. You can settle for a phone call, but if you're not, at least allowing yourself to see the person ultimately, you're going to put yourself in a position where you can be a little bit more forgettable. In an ideal world, you're going to build a relationship with this person who can vouch for you and who knows this person might be able to give you a job or contract you directly and give you the money you don't know what that opportunity could be. Still, they’re only going to fight for you as much they care for you.
+
+---
+
+Is there anything I missed? Is there a topic you'd like me to cover? Feel free to shoot me a message by using any of the links included in the footer!
+
+Thanks for reading!
