@@ -4,96 +4,20 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+My name is Thor Draper Jr. I have the following job titles:
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+- Microsoft Azure Network Support Engineer
+- Cybersecurity Instructor with Trilogy Education
+- Sales Consultant
 
-## Features
+I know, it sounds like a lot but I'm sure the list is going to grow.
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+### My story
 
-## Based on
+I have an owner’s mentality toward every endeavor I take part in. I pride myself on communication and exceeding expectations.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+My previous career was all in the sales field: this involved B2B, B2C, and a heavy influence of developing a team around me. My success was driven by being methodical and process-driven. I have had extensive experience in leadership positions. I’ve managed a team of over 30 employees with a mixture of full-time and part-time employees. I’ve had a four-prong approach to success: take care of your customers, take care of your employees, growth, and profits follow. I believe that this directly led to my early success in the IT field.
 
-## Installation (jekyll-remote-theme method)
+I've spent most of my life in a leadership role. I'm the type that always strives for more responsibility and I've always had a knack for effective communication. I got my first outside sales job at sixteen and joined the National Guard when I was 18. That was a one-two punch that made me personable and disciplined. In my sales career I split my time between B2C and B2B. I often found myself teaching, training, and developing a team.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+In 2019, I decided to change careers and get into IT. After a few good years I was able to buy a gym back in my hometown of Charlotte, NC. Running a gym gives you quite a lot of free time in the middle of the day. I figured I'd start working on removing the chip on my shoulder that was not finishing college and start going back to school. I always like IT but as an angsty teen whose dad was in the field I always told myself that I didn't want to do what he did. But, it turns out the apple doesn't fall far from the tree. I jumped in with both feet and have enjoyed it.
