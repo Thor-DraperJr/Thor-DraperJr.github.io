@@ -3,7 +3,6 @@ author: "Blog Author"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
@@ -18,10 +17,11 @@ minimal: false             # hide the box-shadow from header and footer
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
+  - {file: "archive.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:thor.draper@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/Thor-DraperJr"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
