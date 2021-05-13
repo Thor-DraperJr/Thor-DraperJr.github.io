@@ -10,7 +10,7 @@ My name is Thor Draper Jr. I have the following job titles:
 - Cybersecurity Instructor with Trilogy Education
 - Sales Consultant
 
-I know, it sounds like a lot but I'm sure the list is going to grow.
+I know, it sounds like a lot but I'm sure the list is going to grow. If you'd like to look at my resume [here's a link!](https://docs.google.com/document/d/1fVRo5wngTWiR01oggedOsMEI-hbYYwAFX4POfL_GSTQ/edit?usp=sharing)
 
 ### My story
 

@@ -4,37 +4,57 @@ layout: post
 categories: business
 ---
 
-It's not what you know; it’s who you know, but if your career changer and you're not allowed to meet people in person, how the heck do you meet anyone? Today I'm going to talk to you about how to virtually grow your network using tools and websites you already have access to.
+It's not what you know. It’s who you know. So if your career changes or the world gets flipped on its head, and you're not allowed to meet people in person - how the heck do you go on meeting anyone? 
 
-### Here's the Agenda
-* Before you reach out
+Meeting people is tough. Especially now. In a world that is dictated by the, ‘it’s who you know principal.’ So you’ve got to crank up your efforts. Here is a strategy that you can deploy.
+
+### Agenda
+* The Prep
 * How to find people to reach out to
 * What to say when you're reaching out
 * How to set up the Appointment
 * Thank you and follow up 
 
-### Before you reach out
+### The Prep
 
-My prerequisite is to make sure you don't explain away why this connection needs to happen. For some reason, when we introduced ourselves, we also feel like we have to include some back story or history behind why we're doing something. You're reaching out to Industry experts because you want to get more information, create a connection, get a mentor. Any of those things are valid reasons for why you're doing this. Ultimately you're telling this person that you're hoping to create a connection to use them in some type of way. Hopefully, you're contacting somebody who wants to give back, but if you aren't, then you're going to get ignored, and it's time for you to move on to the next person anyway. So keep in mind it's okay for you to not get responses to this. The effort will take you to your destination. The main thing is you don't want to make this person read a couple of paragraphs about who you are, where you come from, where you have been, where you hope to go, and then you ask them for their time. They probably already spent two minutes reading the paragraphs that you sent them, and that's more time than they had that day anyway. 
+*Prerequisite: Do not give your entire backstory as a reason for why you are hoping to connect.*
+
+Be clear and concise with the people you are reaching out to since your first interaction will be done over a message or an email. You need to make sure that you get their attention and don’t come across as spam.
+
+Do not give yourself a long introduction and back story. That can be stuff you go into during your first meeting. Just like anything else that markets to a virtual audience, it’s about numbers. You’re going to be ignored quite a bit. That’s okay! Persistence is a virtue. You’re reaching out to industry experts because you want information, you’re trying to create a connection, or (the biggie) you’re hoping they become a mentor.
+
+The main thing is you don't want to make this person read a couple of paragraphs about who you are, where you come from, where you have been, where you hope to go, and then you ask them for their time. They probably already spent two minutes reading the paragraphs that you sent them, and that's more time than they had that day anyway. 
 
 
 ### How to find people to reach out to 
 
-#### Reach out to speakers from webinars on YouTube
+#### 1. Reach out to speakers from webinars on YouTube
 
-Hopefully, you're already watching webinars. This is a great way to professionally develop, but I think many people Overlook the second slide. Generally, you have the topic slide, and the second side is who is speaking and what makes them a subject matter expert on what you're about to listen to. This person put time into this presentation. They obviously care about what it is, so if you pay attention to that name their job title and look them up on LinkedIn, you're going to find people who care about this specific topic, so you watched it, you have something in common. That gives you an easy introduction to why you two should talk further.  
+It seems like every company has been on an absolute blitz to put out more webinars than ever before. This is already a win-win since webinars are great resources. I recommend you pay attention to the speakers for those webinars. That person is your ideal subject matter expert. They took time to create a presentation targeted toward an audience and then later published it. I’ve had a lot of success reaching out to people to discuss their webinar. Since you’re starting with mutual interests, you get the freedom to dive into deeper questions on the topic right off the bat.
 
-#### Utilize MeetUp and virtual conferences
+#### 2. Utilize MeetUp and virtual conferences
 
-I said to a live event secondary to the recorded webinars on YouTube because you have to have a little more tact to execute this one effectively. First, if it's a Meetup, generally, there's a presentation portion that goes on. I'd keep an eye out for who organized the most active event in the chat, and then make sure that you equipped yourself with some good questions to make yourself recognizable when you do Reach Out. You're likely not going to schedule a time to follow up with anybody right then and there. You still will have to follow up and do your research on who they are on LinkedIn, so just keep in mind it's going to make you were a couple of passive at the exact same point in time. I think the strategy is to attend as many Live Events as you possibly can with virtual conferences. Again, it's just so you can scope out those chat boxes to participate with the speaker so they at least stand a chance to recognize your name or maybe recognize a question that you can reference when you do reach out to them. Lastly, if you can't see somebody live, most of these things are turned into on-demand videos that you can reach out to you after. Even those are still an excellent way to try to add people to your Rolodex. 
+Live virtual events are happening all the time, but contacting speakers can present its own challenges.
+
+Since Meetups normally have a speaker and an event organizer, I recommend connecting with both through LinkedIn. It’s easy enough to say that you saw the event and wanted to set up a time to chat. However, you can increase your odds by being active in the chat and participating in the Q&A portions. This is a key advantage that often gets overlooked. 
+
+Virtual conferences have a similar dynamic. However, I’ve seen these opportunities wasted when they take on more of a chat-room feel. Suppose there is the option for you to turn on the mic and speak to someone directly, DO IT. Making a meaningful connection with someone is just about getting to know each other's personalities. If they like you, they’ll want more of you. If they don’t like you, they’ll want less. It’s as simple as that. It’s also a bonus when you can send a message referencing something that the person said earlier that day.
 
 ### What to say when you're reaching out
 
-My Go-to message: hey, my name is Thor. I saw you in this YouTube video and wanted to know if I could pick your brain about the subject. I know this seems a little out of the blue, but how else are we supposed to network in a virtual world?
+My Go-to message is this: “Hey, my name is Thor. I saw you in this YouTube video and wanted to know if I could pick your brain about the subject. I know this seems a little out of the blue, but how else are we supposed to network in a virtual world?
+
+Obviously, in that, you’ll want to cater the underlined areas to something more personal. You don’t have to be an original unicorn to stand out. By making your message personal, you’ve already accomplished something easy to forget - the human element. You’re both people. It doesn’t get more rudimentary than that. 
 
 ### How to set up the appointment
 
-Mention that you want to be on Video. You can settle for a phone call, but if you're not, at least allowing yourself to see the person ultimately, you're going to put yourself in a position where you can be a little bit more forgettable. In an ideal world, you're going to build a relationship with this person who can vouch for you and who knows this person might be able to give you a job or contract you directly and give you the money you don't know what that opportunity could be. Still, they’re only going to fight for you as much they care for you.
+Once you’ve made contact, your next objective is setting up an hour or half-hour appointment. Do your best to make this appointment on video. If they’re okay with your conversation being recorded, do that too. Utilize the tools at your disposal. This provides you an opportunity to revisit the conversation later and better ‘pick up where you left off. Video chat will also give you a better relationship and tends to be a far more well-rounded conversation than simply audio. If video isn’t an option, an audio chat will still be better than text. 
+
+### Thank you and follow-up 
+
+This is your opportunity to close. Here is the spot where you want to thank them for their time. Then summarize what you talked about - include something that you found interesting. I use a similar template on interview follow-ups: thank them for their time, talk about what you learned or a part of the conversation that stood out, let them know if you took away any action items, reiterate how appreciative you are, and tell them if they added value.
+
+Lastly, ask them if you can keep in touch and suggest a time in the future that they can expect you to reach out again. Ask to keep an open dialogue and tell them you achieve a milestone before reaching out again. Get to work!
 
 ---
 
