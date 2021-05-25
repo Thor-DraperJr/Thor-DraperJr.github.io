@@ -1,12 +1,12 @@
 ---
-title:  "When you dictate success you limit success"
+title:  "Be proud of everything"
 layout: post
 categories: business
 ---
-When you dictate success you limit success.
+“Every journey begins with the first step.”
+― Lao Tzu
 
 ## Introduction
-
 
 #### Here’s the agenda:
 * Topic1

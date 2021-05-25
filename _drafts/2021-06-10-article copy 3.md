@@ -1,12 +1,11 @@
 ---
-title:  "When you dictate success you limit success"
+title:  "Don't just do your job"
 layout: post
 categories: business
 ---
-When you dictate success you limit success.
+Don't just do your job.
 
 ## Introduction
-
 
 #### Here’s the agenda:
 * Topic1

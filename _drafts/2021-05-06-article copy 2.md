@@ -3,10 +3,9 @@ title:  "The soft skills you need to work on"
 layout: post
 categories: business
 ---
-While you're out in the streets pining for a mentor. Do yourself a favor and begin honing into your soft skill development.
+As the job market gets more competitive keep in mind soft skill development is extremely important.
 
 ## Introduction
-Progressing through a career change can be tough. Somtimes you 
 
 
 ### A few skills to keep in front of mind
@@ -19,11 +18,17 @@ Progressing through a career change can be tough. Somtimes you
 #### Reading Comprehension & Habits
 Bill Gates discusses how he's able to retain all of the information that he reads. “If you read enough, there’s a similarity between things that make it easy, because this thing is like this other thing. If you have a broad framework, then you have a place to put everything”.
 
+My hack recently has been to use the Read Aloud feature in Microsoft Edge to make sure I always finish articles.
+
+I noticed I had a nasty habit of skimming documents for relevant information and then stopping.
+
 #### Critcal Thinking
 Back to bulding your broad framework. Being able to apply what you've learned in one scenario to another scenario.
 
+There are a wide range of management styles and while most people seem to say they hate the idea of being micromanaged there's a lot of examples where they only do what they are told. If you need a step by step guide for all problems you run into, then you might be in for a tough day at the office.
+
 #### Flexibility
-Be able to deal with information gaps. Identify them and look at them as opportunity.
+Be able to deal with information gaps. Identify them and look at them as opportunity. When you find something that you dislike, a broken process, an outdated document. First, dont just sit at your desk hoping the words change on the page. And it doesn't mean that you get a break until your supervisor comes over. You should take it as an opportunity to remove the road
 
 #### Resourcefulness
 Using your supplemental information to get your answer.
@@ -35,6 +40,8 @@ Using your supplemental information to get your answer.
 * Podcasts
 
 #### Curiosity
+A.B.L - Always be learning. Asking questions about why people operate a certain way or why a business functions a certain way. Hell, it could even be about yourself. Keep asking questions. It'll increase your knowledge and is one of the best way to create meaningful relationships.
+
 Dale Carnegie advised in his 1936 classic How to Win Friends and Influence People. “Ask questions the other person will enjoy answering.”
 
 ## Final Thoughts
