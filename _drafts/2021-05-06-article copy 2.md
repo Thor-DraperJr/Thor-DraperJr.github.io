@@ -3,10 +3,9 @@ title:  "The soft skills you need to work on"
 layout: post
 categories: business
 ---
-As the job market gets more competitive keep in mind soft skill development is extremely important.
+Getting the job is one thing but advancing is another.
 
-## Introduction
-
+By working on your soft skills you can stand out among your peers.
 
 ### A few skills to keep in front of mind
 * Reading Comprehension & Habits
@@ -16,6 +15,13 @@ As the job market gets more competitive keep in mind soft skill development is e
 * Curiosity
 
 #### Reading Comprehension & Habits
+We live in a world where we've been conditioned as readers to make judgements off of headlines and skim quickly
+
+As a career changer one of the first things I noticed was
+
+As someone who recently broke into the IT
+
+
 Bill Gates discusses how he's able to retain all of the information that he reads. “If you read enough, there’s a similarity between things that make it easy, because this thing is like this other thing. If you have a broad framework, then you have a place to put everything”.
 
 My hack recently has been to use the Read Aloud feature in Microsoft Edge to make sure I always finish articles.
