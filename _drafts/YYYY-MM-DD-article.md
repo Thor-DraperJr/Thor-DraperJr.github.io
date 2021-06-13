@@ -9,8 +9,6 @@ Tagline
 
 #### Here’s the agenda:
 * Topic1
-* Topic2
-* Topic3
 
 ### Topic1
 
