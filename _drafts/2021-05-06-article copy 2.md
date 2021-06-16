@@ -5,16 +5,20 @@ categories: business
 ---
 Getting the job is one thing but advancing is another.
 
-By working on your soft skills you can stand out among your peers.
-
-### A few skills to keep in front of mind
+I'm a firm believer in practicing the way that you play. Even if you don't have the position you want today, you can prepare for the role by working on your soft skills. 
+## A few skills to keep in front of mind
 * Reading Comprehension & Habits
 * Critical Thinking
 * Flexibility
 * Resourcefulness
 * Curiosity
 
-#### Reading Comprehension & Habits
+### Reading Comprehension & Habits
+
+
+
+
+
 We live in a world where we've been conditioned as readers to make judgements off of headlines and skim quickly
 
 As a career changer one of the first things I noticed was
@@ -28,15 +32,15 @@ My hack recently has been to use the Read Aloud feature in Microsoft Edge to mak
 
 I noticed I had a nasty habit of skimming documents for relevant information and then stopping.
 
-#### Critcal Thinking
+### Critcal Thinking
 Back to bulding your broad framework. Being able to apply what you've learned in one scenario to another scenario.
 
 There are a wide range of management styles and while most people seem to say they hate the idea of being micromanaged there's a lot of examples where they only do what they are told. If you need a step by step guide for all problems you run into, then you might be in for a tough day at the office.
 
-#### Flexibility
+### Flexibility
 Be able to deal with information gaps. Identify them and look at them as opportunity. When you find something that you dislike, a broken process, an outdated document. First, dont just sit at your desk hoping the words change on the page. And it doesn't mean that you get a break until your supervisor comes over. You should take it as an opportunity to remove the road
 
-#### Resourcefulness
+### Resourcefulness
 Using your supplemental information to get your answer.
 * stackoverflow
 * GitHub
@@ -45,7 +49,7 @@ Using your supplemental information to get your answer.
 * Blogs
 * Podcasts
 
-#### Curiosity
+### Curiosity
 A.B.L - Always be learning. Asking questions about why people operate a certain way or why a business functions a certain way. Hell, it could even be about yourself. Keep asking questions. It'll increase your knowledge and is one of the best way to create meaningful relationships.
 
 Dale Carnegie advised in his 1936 classic How to Win Friends and Influence People. “Ask questions the other person will enjoy answering.”
