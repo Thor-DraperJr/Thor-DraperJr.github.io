@@ -1,5 +1,5 @@
 ---
-title:  "Check Your Syntax"
+title:  "Dominate your training program"
 layout: post
 categories: business
 ---
