@@ -5,7 +5,7 @@ categories: business
 ---
 Changing careers is a daunting task.
 
-The most shell shocking realization I had was that I needed to relearn how I learned. When I decided to move from sales to tech, I noticed small things habits that I needed to adjust. I saw a premium on building a framework and work on soft skills that I hadn’t previously emphasized.
+The most shell shocking realization I had was that I needed to relearn how I learned. When I decided to move from sales to tech, I noticed small habits that I needed to adjust. I saw a premium on building a framework and work on soft skills that I hadn’t previously emphasized.
 
 Here are some of the soft skills to keep in mind:
 * Reading Comprehension
@@ -25,6 +25,8 @@ Finish what you’re reading before moving on.
 
 There was a time I was writing for a sports blog (feel free to talk to me about the Panthers whenever). The goal was to keep articles shorter than 350 words. Suppose there was an article longer than that. You’d likely lose readers. We are getting trained to consume a small amount of info and move on.
 
+It's critical to break that habit and reset your standards.
+
 ### Researching Methods
 “If I don’t know the answer, I’ll find someone who does.” I used to say that to prospects all of the time. I was doing my research strictly to find out how someone else found an answer, a single solution to the question. 
 
@@ -35,11 +37,11 @@ My current method of choice is vendor-issued technical documentation. It’s a b
 ### Critical Thinking
 Applying lessons learned from one application to another.
 
-In a technological world, the problems are like snowflakes. Every single one is unique. But there are a ton of similarities.  You need
+In a technological world, the problems are like snowflakes. Every single one is unique. But there are a ton of similarities.  You need to understand that there isn’t going to be a runbook for every issue. You time is going to be better spent on identifying gaps in your workflow.
 
-Understanding that there isn’t going to be a runbook for every issue will let you focus on your workflow.
+It's important to key in on the moments where you can’t find an answer. How much time do you give yourself before you reach out? How much context do you give when asking the question? Did you gather the right information? 
 
-If you can’t find an answer, when do you start reaching out?
+When you have answers to those questions you'll be on your way!
 
 ### Flexibility
 I’m using the word flexibility to express the willingness to accept change and getting comfortable with being uncomfortable.
