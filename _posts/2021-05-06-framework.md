@@ -19,7 +19,7 @@ I started researching the reading habits and techniques of successful people. Th
 
 One quote stuck with me. Gates said, “If you read enough, there’s a similarity between things that make it easy, because this thing is like this other thing. If you have a broad framework, then you have a place to put everything”.
 
-When I changed my outlook from solving a single problem to creating a framework, it allowed me to emphasize finishing everything I was reading.
+When I changed my outlook from solving a single problem to creating a framework, I emphasized finishing everything I was reading.
 
 Finish what you’re reading before moving on.
 
