@@ -3,9 +3,10 @@ title:  "TITLE-NAME"
 layout: post
 categories: business
 ---
-positions that aren't posted
+How would you spend you time if you had your dream job?
 
 ## Introduction
+I've had some discussions with people trying to break into a new field. I noticed that a major roadblock
 
 #### Here’s the agenda:
 * Topic1
