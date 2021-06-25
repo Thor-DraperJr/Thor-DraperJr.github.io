@@ -24,4 +24,4 @@ I grew up in Charlotte, North Carolina. From a young age I notieced two things a
 
 Those years had the most to do with the man that I am today. I have an owner's mentality toward every endeavor I partake it. I pride myself on communication and exceeding expectations. My success was driven by being methodical and process-driven.
 ## Let's chat!
-[Set up a phone call](https://calendly.com/thor-draper/call?month=2021-06)
+[Set up a phone call](https://calendly.com/thor-draper/60min)
