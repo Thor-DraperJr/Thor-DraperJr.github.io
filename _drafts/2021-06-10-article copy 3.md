@@ -1,5 +1,5 @@
 ---
-title:  "Don't just do your job"
+title:  ""
 layout: post
 categories: business
 ---

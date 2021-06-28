@@ -1,5 +1,5 @@
 ---
-title:  "When you dictate success you limit success"
+title:  ""
 layout: post
 categories: business
 ---
