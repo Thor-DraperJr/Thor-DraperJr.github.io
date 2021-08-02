@@ -8,24 +8,27 @@ This article aims to provide a quick guide to connect a cloud native site-to-sit
 
 * Azure resources
     * [VPN Gateway](https://azure.microsoft.com/en-us/services/vpn-gateway/#overview)
-    * Resource Group
-    * Virtual Network
-        * Subnet
-    * Public IP
+    * [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#what-is-a-resource-group)
+    * [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+        * [Subnet](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet#add-a-subnet)
+    * [Public IP](https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses)
 * AWS
-    * VPC
-        * Subnet
-    * Route Tables
-    * Customer Gateways
-    * Virtual Private Gateways
-    * Site-to-Site VPN Connections
-    * Security Groups
+    * [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+        * [Subnet](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html)
+    * [Route Tables](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)
+    * [Customer Gateways](https://docs.aws.amazon.com/vpn/latest/s2svpn/your-cgw.html)
+    * [Virtual Private Gateways](https://docs.aws.amazon.com/directconnect/latest/UserGuide/virtualgateways.html)
+    * [Site-to-Site VPN Connections](https://docs.aws.amazon.com/vpn/latest/s2svpn/SetUpVPNConnections.html)
+    * [Security Groups](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/working-with-security-groups.html)
 
 # Azure
 The first thing that you'll want to deploy is the Azure Virtual Network Gateway (VNG). The average deployment takes about 30 minutes. Keep in mind this is a free service on the Azure Students subscription. If you wanted to learn more about a VPN Gateway [click here](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?WT.mc_id=Portal-Microsoft_Azure_HybridNetworking).
 
 ## Create virtual network gateway
 * Navigate to the [Azure Portal](portal.azure.com)
+
+![1-search-vng.png](Thor-DraperJr.github.io\assets\images\1-search-vng.png)
+
 * Search for and select `Virtual network gateway` once the page opens press create
     * One first tab you'll see you are on the `Basics` page
         * Subscription: [YOUR-SUBSCRIPTION]
@@ -59,6 +62,9 @@ Before leaving the Azure platform you should see the Public IP address created f
 In AWS the first thing that you'll create is an Amazon Virtual Private Cloud (VPC) and use the launch wizard. 
 
 * Navigate to your [AWS Console](console.aws.amazon.com).
+
+![2](Thor-DraperJr.github.io\assets\images\2-blank-vng.png)
+
 * Search for and select `VPC` once the page opens press `Launch VPC Wizard`
     * Step 1: Select a VPC Configuration
         * Select the fourth option: VPC with a Private Subnet Only and Hardware VPN Access
@@ -89,6 +95,8 @@ Once our resources are created we'll want to stay on the VPC page and used the l
         * Select Tunnel 1
             * Inside IPv4 CIDR: 169.254.21.0/30
             * All other options can be left to their defaults
+
+![5](Thor-DraperJr.github.io\assets\images\5-s2s-modify-vpn-tunnel.png)
 
 Azure BGP IP in the ranges `169.254.21.*` and `169.254.22.*` while AWS makes you create a /30 CIDR in the 169.254.0.0/16 range. Your tunnel is automatically pull the first address in the range, in our instance it will be `169.254.21.1`.
 
