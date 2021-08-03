@@ -105,6 +105,8 @@ Azure BGP IP in the ranges `169.254.21.*` and `169.254.22.*` while AWS makes you
     * Platform: Generic
     * Software: Vendor Agnostic
 
+![6](Thor-DraperJr.github.io\assets\images\6-tunnel-details.png)
+
 From the downloaded .txt file you'll want to take note of the following information:
 * For IPSec Tunnel #1
     * Pre-Shared Key (Line 36): GENERATED-BY-AMAZON
@@ -147,6 +149,8 @@ Take note of this information in case your side anything was assigned differentl
             * Subscription: YOURSUBSCRIPTION
             * Resource group: rg-1
             * Location EastUs2
+
+![7](Thor-DraperJr.github.io\assets\images\7-lng.png)
 
 * Search for and select `Virtual Network Gateways`
     * Located on the left menu under Settings choose `Configuration`
