@@ -27,7 +27,7 @@ The first thing that you'll want to deploy is the Azure Virtual Network Gateway 
 ## Create virtual network gateway
 * Navigate to the [Azure Portal](portal.azure.com)
 
-![1-search-vng.png](Thor-DraperJr.github.io\assets\images\1-search-vng.png)
+![1-search-vng.png](/assets/images/1-search-vng.png)
 
 * Search for and select `Virtual network gateway` once the page opens press create
     * One first tab you'll see you are on the `Basics` page
@@ -63,7 +63,7 @@ In AWS the first thing that you'll create is an Amazon Virtual Private Cloud (VP
 
 * Navigate to your [AWS Console](console.aws.amazon.com).
 
-![2](Thor-DraperJr.github.io\assets\images\2-blank-vng.png)
+![2](/assets/images/2-blank-vng.png)
 
 * Search for and select `VPC` once the page opens press `Launch VPC Wizard`
     * Step 1: Select a VPC Configuration
@@ -96,7 +96,7 @@ Once our resources are created we'll want to stay on the VPC page and used the l
             * Inside IPv4 CIDR: 169.254.21.0/30
             * All other options can be left to their defaults
 
-![5](Thor-DraperJr.github.io\assets\images\5-s2s-modify-vpn-tunnel.png)
+![5](/assets/images/5-s2s-modify-vpn-tunnel.png)
 
 Azure BGP IP in the ranges `169.254.21.*` and `169.254.22.*` while AWS makes you create a /30 CIDR in the 169.254.0.0/16 range. Your tunnel is automatically pull the first address in the range, in our instance it will be `169.254.21.1`.
 
@@ -105,7 +105,7 @@ Azure BGP IP in the ranges `169.254.21.*` and `169.254.22.*` while AWS makes you
     * Platform: Generic
     * Software: Vendor Agnostic
 
-![6](Thor-DraperJr.github.io\assets\images\6-tunnel-details.png)
+![6](/assets/images/6-tunnel-details.png)
 
 From the downloaded .txt file you'll want to take note of the following information:
 * For IPSec Tunnel #1
@@ -150,7 +150,7 @@ Take note of this information in case your side anything was assigned differentl
             * Resource group: rg-1
             * Location EastUs2
 
-![7](Thor-DraperJr.github.io\assets\images\7-lng.png)
+![7](/assets/images/7-lng.png)
 
 * Search for and select `Virtual Network Gateways`
     * Located on the left menu under Settings choose `Configuration`
@@ -173,4 +173,5 @@ A few areas to check for troubleshooting.
 * Verify that you Route Tables are enabling Route propogation.
 * If you are trying to ping a resource in AWS make sure that you have the Inbound rule for the subnet of the resource to allow ICMP traffic.
 
-# Final Thoughts
+# Final Architecture
+![Azure-to-AWS](/assets/images/azure-to-aws.png)
