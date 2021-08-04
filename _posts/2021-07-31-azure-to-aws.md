@@ -32,7 +32,7 @@ The first thing that you'll want to deploy is the Azure Virtual Network Gateway 
 * Search for and select `Virtual network gateway` once the page opens press create
     * One first tab you'll see you are on the `Basics` page
         * Subscription: [YOUR-SUBSCRIPTION]
-        * Resource Group: [YOUR-RESOURCEGRUP]
+        * Resource Group: [YOUR-RESOURCEGROUP]
         ---
         * **Instance details**
         * Name: VpnGw
@@ -55,6 +55,8 @@ The first thing that you'll want to deploy is the Azure Virtual Network Gateway 
         * Enabled active-active: Disabled
         * Configure BGP: Disabled
 
+![2](/assets/images/2-blank-vng.png)
+
 First we've created a Resource Group, the container that holds related resources for an Azure solution. We've also created a vNet in the 10.0.0.0/16 address space as well as a dedicated GatewaySubnet. Currently, we've left the BGP seelctor disabled. We'll configure BGP after we've created our AWS resources.
 
 Before leaving the Azure platform you should see the Public IP address created fairly quickly.
@@ -63,7 +65,11 @@ In AWS the first thing that you'll create is an Amazon Virtual Private Cloud (VP
 
 * Navigate to your [AWS Console](console.aws.amazon.com).
 
+<<<<<<< HEAD
 ![2](/assets/images/2-blank-vng.png)
+=======
+![3](/assets/images/3-search-vpc.png)
+>>>>>>> f4d1e5f4d016819fe7c738124188790f55797862
 
 * Search for and select `VPC` once the page opens press `Launch VPC Wizard`
     * Step 1: Select a VPC Configuration
