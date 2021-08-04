@@ -65,11 +65,7 @@ In AWS the first thing that you'll create is an Amazon Virtual Private Cloud (VP
 
 * Navigate to your [AWS Console](console.aws.amazon.com).
 
-<<<<<<< HEAD
-![2](/assets/images/2-blank-vng.png)
-=======
 ![3](/assets/images/3-search-vpc.png)
->>>>>>> f4d1e5f4d016819fe7c738124188790f55797862
 
 * Search for and select `VPC` once the page opens press `Launch VPC Wizard`
     * Step 1: Select a VPC Configuration
