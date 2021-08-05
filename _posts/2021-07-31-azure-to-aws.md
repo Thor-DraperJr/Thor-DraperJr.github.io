@@ -25,11 +25,15 @@ This article aims to provide a quick guide to connect a cloud native site-to-sit
 The first thing that you'll want to deploy is the Azure Virtual Network Gateway (VNG). The average deployment takes about 30 minutes. Keep in mind this is a free service on the Azure Students subscription. If you wanted to learn more about a VPN Gateway [click here](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?WT.mc_id=Portal-Microsoft_Azure_HybridNetworking).
 
 ## Create virtual network gateway
-* Navigate to the [Azure Portal](portal.azure.com)
+Navigate to the [Azure Portal](portal.azure.com)
 
 ![1-search-vng.png](/assets/images/1-search-vng.png)
 
-* Search for and select `Virtual network gateway` once the page opens press create
+Search for and select `Virtual network gateway` once the page opens press create
+
+![2](/assets/images/2-blank-vng.png)
+
+
     * One first tab you'll see you are on the `Basics` page
         * Subscription: [YOUR-SUBSCRIPTION]
         * Resource Group: [YOUR-RESOURCEGROUP]
@@ -55,17 +59,19 @@ The first thing that you'll want to deploy is the Azure Virtual Network Gateway 
         * Enabled active-active: Disabled
         * Configure BGP: Disabled
 
-![2](/assets/images/2-blank-vng.png)
 
 First we've created a Resource Group, the container that holds related resources for an Azure solution. We've also created a vNet in the 10.0.0.0/16 address space as well as a dedicated GatewaySubnet. Currently, we've left the BGP seelctor disabled. We'll configure BGP after we've created our AWS resources.
 
 Before leaving the Azure platform you should see the Public IP address created fairly quickly.
+
 # AWS
 In AWS the first thing that you'll create is an Amazon Virtual Private Cloud (VPC) and use the launch wizard. 
 
-* Navigate to your [AWS Console](console.aws.amazon.com).
-
 ![3](/assets/images/3-search-vpc.png)
+
+Navigate to your [AWS Console](console.aws.amazon.com).
+
+![4](/assets/images/4-vpc-wizard.png)
 
 * Search for and select `VPC` once the page opens press `Launch VPC Wizard`
     * Step 1: Select a VPC Configuration
@@ -92,13 +98,15 @@ In AWS the first thing that you'll create is an Amazon Virtual Private Cloud (VP
 
 Once our resources are created we'll want to stay on the VPC page and used the left pane and navigate to the Site-to-Site VPN Connection. The two things we need to accomplish here are changing the inside tunnel addresses and download our configuration and tunnel information.
 
+![5](/assets/images/5-s2s-modify-vpn-tunnel.png)
+
 * VIRTUAL PRIVATE NETWORK > Site-to-Site VPN Connections
     * Right click on your newly created VPN Connection and select `Modify VPN Tunnel Options`
         * Select Tunnel 1
             * Inside IPv4 CIDR: 169.254.21.0/30
             * All other options can be left to their defaults
 
-![5](/assets/images/5-s2s-modify-vpn-tunnel.png)
+![6](/assets/images/6-tunnel-details.png)
 
 Azure BGP IP in the ranges `169.254.21.*` and `169.254.22.*` while AWS makes you create a /30 CIDR in the 169.254.0.0/16 range. Your tunnel is automatically pull the first address in the range, in our instance it will be `169.254.21.1`.
 
@@ -106,8 +114,6 @@ Azure BGP IP in the ranges `169.254.21.*` and `169.254.22.*` while AWS makes you
     * Vendor: Generic
     * Platform: Generic
     * Software: Vendor Agnostic
-
-![6](/assets/images/6-tunnel-details.png)
 
 From the downloaded .txt file you'll want to take note of the following information:
 * For IPSec Tunnel #1
@@ -129,6 +135,9 @@ Take note of this information in case your side anything was assigned differentl
 
 # Azure (Part 2)
 * Navigate to the [Azure Portal](portal.azure.com)
+
+![7](/assets/images/7-lng.png)
+
 * Search for and select `Local network gateways` once the page opens press create
     * Local network gateway
         * Create local network gateway
@@ -152,7 +161,7 @@ Take note of this information in case your side anything was assigned differentl
             * Resource group: rg-1
             * Location EastUs2
 
-![7](/assets/images/7-lng.png)
+![8](/assets/images/8-vng-bgp.png)
 
 * Search for and select `Virtual Network Gateways`
     * Located on the left menu under Settings choose `Configuration`
