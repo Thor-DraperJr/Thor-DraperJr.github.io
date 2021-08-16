@@ -1,4 +1,7 @@
+This article will use an Azure Logic App, Azure SQL database, and Power BI to display whether or not I'm spending my time well or if I'm just spending my time.
 
+# Introduction
+I've been on a productivity kick for forever. Also, since making the jump into tech, I've used social media as a way to connect to people in the industry. I'll walk you how to quickly spin up a 
 
 # Create SQL Database
 _Basics_
@@ -37,6 +40,23 @@ Maintenance window: System default (5pm to 8am)
 
 _Tags_
 Development:Twitter-to-PowerBi-App
+
+```sql
+CREATE TABLE TweetData (
+    CreatedAt datetime,
+    TweetText varchar(512),
+);
+```
+^Creating a table with two columns
+* `Drop TABLE TweetData;` <---Delete the
+* 
+
+```sql
+```
+
+```sql
+```
+
 
 # Logic App
 
