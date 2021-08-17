@@ -1,12 +1,38 @@
-This article will use an Azure Logic App, Azure SQL database, and Power BI to display whether or not I'm spending my time well or if I'm just spending my time.
+Another tech tutorial!
 
-# Introduction
-I've been on a productivity kick for forever. Also, since making the jump into tech, I've used social media as a way to connect to people in the industry. I'll walk you how to quickly spin up a 
+I've been on a productivity kick for forever. I've also been looking for an excuse to post things on Twitter. With that simple premise I thought it'd be cool if I could use some cloud tools to collect my tweets and create some dashboards telling me if I'm spending my time well or if I'm just spending my time.
+
+## Introduction
+
+From a high level: I'm going to use an Azure Logic App to pull my tweets and store them in a SQL database. From there I'm going to use Power BI to connect to the SQL database and transform the data into pretty visuals.
+
+It's nothing too crazy and primarily depends on the structure of my tweets.
+
+![1](/assets/images/1-tweet-structure.png)
+
+The Key:
+* Hashtag 1: TimeSpent OR TimeWellSpent
+* Hashtag 2: The main category on what I was spending my time on (Learning, Exercise, etc.)
+* Hashtag 3: The specific Activity (Azure, Peloton, etc.)
+
+## The Order
+The order that you'll need to deploy:
+1. Create the SQL Database
+    - Create the table and columns for the data
+2. Create the Logic App
+    - Connect to Twitter
+    - Create a Trigger based off of a new tweet from my account
+    - Create an Action to insert a new row into the SQL database
+3. Connect Power BI to the SQL database
+    - Transform the data
+    - Create Visualizations
+    - Set a schedule for the data to refresh
 
 ### step 1: create a place to store the data
 Azure SQL Database is a relational database-as-a-service (DBaaS) hosted in Azure that falls into the industry category of Platform-as-a-Service (PaaS).
 
 create a server, table, and columns for the tweet, i kept it simple and only cared about TweetData and CreatedDate
+
 ```sql
 CREATE TABLE TweetData (
     CreatedAt datetime,
