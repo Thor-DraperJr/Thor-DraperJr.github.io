@@ -9,11 +9,12 @@ It's not what you know. It’s who you know. So if your career changes or the wo
 Meeting people is tough. Especially now. In a world that is dictated by the, ‘it’s who you know principal.’ So you’ve got to crank up your efforts. Here is a strategy that you can deploy.
 
 ### Agenda
+
 * The Prep
 * How to find people to reach out to
 * What to say when you're reaching out
 * How to set up the Appointment
-* Thank you and follow up 
+* Thank you and follow up
 
 ### The Prep
 
@@ -26,7 +27,7 @@ Do not give yourself a long introduction and back story. That can be stuff you g
 The main thing is you don't want to make this person read a couple of paragraphs about who you are, where you come from, where you have been, where you hope to go, and then you ask them for their time. They probably already spent two minutes reading the paragraphs that you sent them, and that's more time than they had that day anyway. 
 
 
-### How to find people to reach out to 
+### How to find people to reach out to
 
 #### 1. Reach out to speakers from webinars on YouTube
 
@@ -36,7 +37,7 @@ It seems like every company has been on an absolute blitz to put out more webina
 
 Live virtual events are happening all the time, but contacting speakers can present its own challenges.
 
-Since Meetups normally have a speaker and an event organizer, I recommend connecting with both through LinkedIn. It’s easy enough to say that you saw the event and wanted to set up a time to chat. However, you can increase your odds by being active in the chat and participating in the Q&A portions. This is a key advantage that often gets overlooked. 
+Since Meetups normally have a speaker and an event organizer, I recommend connecting with both through LinkedIn. It’s easy enough to say that you saw the event and wanted to set up a time to chat. However, you can increase your odds by being active in the chat and participating in the Q&A portions. This is a key advantage that often gets overlooked.
 
 Virtual conferences have a similar dynamic. However, I’ve seen these opportunities wasted when they take on more of a chat-room feel. Suppose there is the option for you to turn on the mic and speak to someone directly, DO IT. Making a meaningful connection with someone is just about getting to know each other's personalities. If they like you, they’ll want more of you. If they don’t like you, they’ll want less. It’s as simple as that. It’s also a bonus when you can send a message referencing something that the person said earlier that day.
 
@@ -44,11 +45,11 @@ Virtual conferences have a similar dynamic. However, I’ve seen these opportuni
 
 My Go-to message is this: “Hey, my name is Thor. I saw you in this YouTube video and wanted to know if I could pick your brain about the subject. I know this seems a little out of the blue, but how else are we supposed to network in a virtual world?
 
-Obviously, in that, you’ll want to cater the underlined areas to something more personal. You don’t have to be an original unicorn to stand out. By making your message personal, you’ve already accomplished something easy to forget - the human element. You’re both people. It doesn’t get more rudimentary than that. 
+Obviously, in that, you’ll want to cater the underlined areas to something more personal. You don’t have to be an original unicorn to stand out. By making your message personal, you’ve already accomplished something easy to forget - the human element. You’re both people. It doesn’t get more rudimentary than that.
 
 ### How to set up the appointment
 
-Once you’ve made contact, your next objective is setting up an hour or half-hour appointment. Do your best to make this appointment on video. If they’re okay with your conversation being recorded, do that too. Utilize the tools at your disposal. This provides you an opportunity to revisit the conversation later and better ‘pick up where you left off. Video chat will also give you a better relationship and tends to be a far more well-rounded conversation than simply audio. If video isn’t an option, an audio chat will still be better than text. 
+Once you’ve made contact, your next objective is setting up an hour or half-hour appointment. Do your best to make this appointment on video. If they’re okay with your conversation being recorded, do that too. Utilize the tools at your disposal. This provides you an opportunity to revisit the conversation later and better ‘pick up where you left off. Video chat will also give you a better relationship and tends to be a far more well-rounded conversation than simply audio. If video isn’t an option, an audio chat will still be better than text.
 
 ### Thank you and follow-up 
 

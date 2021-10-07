@@ -15,16 +15,21 @@ Here is the good news. You now have a unique opportunity to maximize the effecti
 In this post, I’ll define these 3 types of mentors, give strategies on finding them, and conduct the meeting.
 
 ### Types of Mentors
-#### Type # 1:
+
+#### Type # 1
+
 Subject Matter Experts (SME’s) are highly knowledgeable in the field or (ideally working) in the position you want. The aim here is to find someone who can give you insight into how they specifically achieved their results.
 
-#### Type # 2:
+#### Type # 2
+
 Attestors, by definition, are people who are going to vouch for you. You’ll know you found a good attestor if they are willing to introduce you to their network (one membership and 13 coffees later). You’d like this person to be a banner-waver for you while being a credible source of how you can add value.
 
-#### Type # 3:
+#### Type # 3
+
 Accountability Partners are typically a peer or someone who is slightly ahead of you in the same field.
 
 ### SME
+
 I’ve found the best way to meet the SME is to search within your company first (the internal directory if your company has one) or searching for the position title on LinkedIn. This even applies to mentors I’ve found in my own company. I like reaching out on LinkedIn first. Start with a quick connection request asking to pick their brain about their career path. 
 
 I aim to set an initial meeting for 30-45 minutes. I try to provide multiple dates and times to schedule the meeting (or, if possible, I take a peek at their availability in their calendar - typically using Schedule Assistant). My goal is to make sure that this is done formally and painlessly. When accepted, I make sure to take the initiative of sending the calendar invite shortly after.
@@ -36,11 +41,13 @@ As you wrap up the meeting, I recommend setting up a tentative follow-up range. 
 Lastly, thank them for the time and make sure that your conversations are constantly adding value. 
 
 ### The Attestor
+
 In my experience, attestors can be managers, project maintainers, or referral partners. In the tech space, it’s great to find an Attestor by contributing to a project. Generally, these mentors are a bit easier to find, but they require you to spend time between meetings to maintain effectively.
 
 While you may be asked to contribute or volunteer outside of regular hours, I suggest asking them to set aside time to help you set goals. First, if you’re going to do something, you want to do it well. Second, you want to make sure that you give the Attestor plenty of ammunition to brag on your behalf to their network. Most meetings should be fueled by conversations about how to improve and to get direct feedback on results. Third, the frequency for meetings here should take place every 30 days. It’s normal to get reviews from your company, but I think it’s often an oversight in other settings.
 
 ### The Accountability Partner
+
 This is the most informal of all three relationships. It’s also your most organic and frequently spoken to. You must have an open dialogue. You’ll want to be able to talk about the struggles. Be honest about the failures. It is these mentors you’ll also keep in the loop for the wins. Celebrating these victories is encouraged, and it feels even better when you’re sharing these successes with someone.
 
 I recommend setting time aside every two weeks, at least, to have a formal status update. The ideal relationship looks like a knowledge share. You’ll find that people grow at a much faster rate when they have to declare goals and give updates on whether you got closer or further from it.
@@ -50,4 +57,3 @@ I recommend setting time aside every two weeks, at least, to have a formal statu
 Is there anything I missed? Is there a topic you'd like me to cover? Feel free to shoot me a message by using any of the links included in the footer!
 
 Thanks for reading!
-
