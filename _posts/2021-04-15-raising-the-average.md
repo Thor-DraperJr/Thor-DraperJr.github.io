@@ -8,9 +8,9 @@ According to Jim Rohn: “You’re the average of the five people you spend the 
 
 The question is, how do you raise your average?
 
-As the world continues to go more virtual, the nature of relationships has changed. While mentorship is essential to anyone's professional development, the times dictate you need to adjust your communication style to maintain these relationships. 
+As the world continues to go more virtual, the nature of relationships has changed. While mentorship is essential to anyone's professional development, the times dictate you need to adjust your communication style to maintain these relationships.
 
-Here is the good news. You now have a unique opportunity to maximize the effectiveness of your mentorships. You have the ability, and the resources, to target your mentors. I’ve found that the three most important mentors have been: Subject Matter Experts (SME’s), Attestors, and Accountability Partners. 
+Here is the good news. You now have a unique opportunity to maximize the effectiveness of your mentorships. You have the ability, and the resources, to target your mentors. I’ve found that the three most important mentors have been: Subject Matter Experts (SME’s), Attestors, and Accountability Partners.
 
 In this post, I’ll define these 3 types of mentors, give strategies on finding them, and conduct the meeting.
 
@@ -30,7 +30,7 @@ Accountability Partners are typically a peer or someone who is slightly ahead of
 
 ### SME
 
-I’ve found the best way to meet the SME is to search within your company first (the internal directory if your company has one) or searching for the position title on LinkedIn. This even applies to mentors I’ve found in my own company. I like reaching out on LinkedIn first. Start with a quick connection request asking to pick their brain about their career path. 
+I’ve found the best way to meet the SME is to search within your company first (the internal directory if your company has one) or searching for the position title on LinkedIn. This even applies to mentors I’ve found in my own company. I like reaching out on LinkedIn first. Start with a quick connection request asking to pick their brain about their career path.
 
 I aim to set an initial meeting for 30-45 minutes. I try to provide multiple dates and times to schedule the meeting (or, if possible, I take a peek at their availability in their calendar - typically using Schedule Assistant). My goal is to make sure that this is done formally and painlessly. When accepted, I make sure to take the initiative of sending the calendar invite shortly after.
 
@@ -38,7 +38,7 @@ When it comes to the meeting, be sure to prepare a few questions. Be mindful of 
 
 As you wrap up the meeting, I recommend setting up a tentative follow-up range. The SME’s time is precious, so it’s best to meet with them quarterly or every 60 days. You want to make sure that you have enough time to achieve a milestone or make a significant dent towards one.
 
-Lastly, thank them for the time and make sure that your conversations are constantly adding value. 
+Lastly, thank them for the time and make sure that your conversations are constantly adding value.
 
 ### The Attestor
 

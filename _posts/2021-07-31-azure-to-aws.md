@@ -216,7 +216,7 @@ To utilize both tunnels to make this a redundant connection, you'd need to creat
 You should now be able to spin up virtual machines in both cloud environments, and they should be able to ping each other. Keep in mind that you'll need to allow ICMP traffic outbound to the Instance in AWS.
 ![9](/assets/images/9-final-architecture.png)
 
-# Troubleshooting
+## Troubleshooting
 
 A few areas to check for troubleshooting.
 
@@ -231,7 +231,7 @@ A few areas to check for troubleshooting.
   * [Subnet](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet#add-a-subnet)
 * [Public IP](https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses)
 
-## AWS
+## AWS resources
 
 * [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
   * [Subnet](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html)

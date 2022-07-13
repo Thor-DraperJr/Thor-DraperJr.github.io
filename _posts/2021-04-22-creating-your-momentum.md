@@ -6,7 +6,7 @@ categories: business
 
 ## Tagline
 
-We’re going to kick this off with an exercise: Imagine a time where everything just seemed to go your way. 
+We’re going to kick this off with an exercise: Imagine a time where everything just seemed to go your way.
 
 Oh, what a lucky time that must’ve been. Now, have you ever considered the theory that luck is just timing meeting preparation?
 
@@ -30,7 +30,7 @@ Keep in mind that Anchors are not always exclusively negative. There’s a great
 
 ### Be able to elevator pitch your vision
 
-The clearer your objective, the more opportunities you’ll find. Be able to state your intentions quick, direct, and easy to understand. When you’re sharing your vision with others, be receptive to feedback. Criticism leads to growth but only when you allow it. Be prepared for the following questions, and most importantly, have an answer: 
+The clearer your objective, the more opportunities you’ll find. Be able to state your intentions quick, direct, and easy to understand. When you’re sharing your vision with others, be receptive to feedback. Criticism leads to growth but only when you allow it. Be prepared for the following questions, and most importantly, have an answer:
 
 What is your why? What is your ask?
 

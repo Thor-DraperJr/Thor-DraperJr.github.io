@@ -4,7 +4,7 @@ layout: post
 categories: business
 ---
 
-It's not what you know. It’s who you know. So if your career changes or the world gets flipped on its head, and you're not allowed to meet people in person - how the heck do you go on meeting anyone? 
+It's not what you know. It’s who you know. So if your career changes or the world gets flipped on its head, and you're not allowed to meet people in person - how the heck do you go on meeting anyone?
 
 Meeting people is tough. Especially now. In a world that is dictated by the, ‘it’s who you know principal.’ So you’ve got to crank up your efforts. Here is a strategy that you can deploy.
 
@@ -24,8 +24,7 @@ Be clear and concise with the people you are reaching out to since your first in
 
 Do not give yourself a long introduction and back story. That can be stuff you go into during your first meeting. Just like anything else that markets to a virtual audience, it’s about numbers. You’re going to be ignored quite a bit. That’s okay! Persistence is a virtue. You’re reaching out to industry experts because you want information, you’re trying to create a connection, or (the biggie) you’re hoping they become a mentor.
 
-The main thing is you don't want to make this person read a couple of paragraphs about who you are, where you come from, where you have been, where you hope to go, and then you ask them for their time. They probably already spent two minutes reading the paragraphs that you sent them, and that's more time than they had that day anyway. 
-
+The main thing is you don't want to make this person read a couple of paragraphs about who you are, where you come from, where you have been, where you hope to go, and then you ask them for their time. They probably already spent two minutes reading the paragraphs that you sent them, and that's more time than they had that day anyway.
 
 ### How to find people to reach out to
 
@@ -51,7 +50,7 @@ Obviously, in that, you’ll want to cater the underlined areas to something mor
 
 Once you’ve made contact, your next objective is setting up an hour or half-hour appointment. Do your best to make this appointment on video. If they’re okay with your conversation being recorded, do that too. Utilize the tools at your disposal. This provides you an opportunity to revisit the conversation later and better ‘pick up where you left off. Video chat will also give you a better relationship and tends to be a far more well-rounded conversation than simply audio. If video isn’t an option, an audio chat will still be better than text.
 
-### Thank you and follow-up 
+### Thank you and follow-up
 
 This is your opportunity to close. Here is the spot where you want to thank them for their time. Then summarize what you talked about - include something that you found interesting. I use a similar template on interview follow-ups: thank them for their time, talk about what you learned or a part of the conversation that stood out, let them know if you took away any action items, reiterate how appreciative you are, and tell them if they added value.
 

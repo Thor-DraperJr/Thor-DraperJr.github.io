@@ -24,7 +24,7 @@ One question seems to come up repeatedly in my consulting efforts, "is this a go
 For example, if your goal was to ‘Run a Marathon’, you might see ‘routine stretching’ or ‘to drink a gallon of water each day’. Individually those are tasks, combined they are a strategy to achieve your goal.
 2. **Wishes:** On New Years, my mom would wish people happiness, healthiness, and prosperity. I noticed similarly large and ambiguous goals on people’s lists. A wish would often be written extremely broad or intentionally written to include multiple goals.
 
-Take the ‘run-a-marathon’ example again. A wish might show up as “be healthy” or “lose weight” or a combination of the two. Sure, while training for a marathon could lead to losing weight, it’s not nearly as effective as adjusting your nutrition or sticking to a fitness regimen. 
+Take the ‘run-a-marathon’ example again. A wish might show up as “be healthy” or “lose weight” or a combination of the two. Sure, while training for a marathon could lead to losing weight, it’s not nearly as effective as adjusting your nutrition or sticking to a fitness regimen.
 
 The issue with ‘wishes’ is that you run into pursuing a dozen large goals at the same time. Effectively, making little progress toward any single one of them. Goal setting requires sacrifice.
 3. **Goals:** You know a good one when you see one. The first similarity, from one list to another, tends to be the goal showing up as the first or second item on the list. There’s a subconscious reason for this occurrence. If they’re important to you - you’re going to list them early on.  

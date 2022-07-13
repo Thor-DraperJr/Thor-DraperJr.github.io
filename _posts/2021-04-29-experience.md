@@ -16,7 +16,7 @@ Keep Learning
 
 ### DIY
 
-If you can do the job yourself in some capacity, do it. It’s never been easier to become a solopreneur than today. Get yourself a free CRM (I use Zoho) and start reaching out to prospects. If you weren’t comfortable marketing yourself like that, just sign up for an Upwork or Fiverr account and offer a service. 
+If you can do the job yourself in some capacity, do it. It’s never been easier to become a solopreneur than today. Get yourself a free CRM (I use Zoho) and start reaching out to prospects. If you weren’t comfortable marketing yourself like that, just sign up for an Upwork or Fiverr account and offer a service.
 
 For the intrapreneurs out there looking for a position in their own company, I suggest putting together a process and a presentation. I’ve seen instances where someone put together a training presentation tailored to their new team members. That presentation got adopted by the company, and he became a trainer for all new hires.
 

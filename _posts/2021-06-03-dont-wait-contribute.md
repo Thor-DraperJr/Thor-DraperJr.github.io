@@ -19,19 +19,19 @@ Here’s the agenda:
 
 Asking for a job, a role or a recommendation can be a daunting task. Yet, expressing your desire to take on new challenges is becoming a required skill in a virtual world. Over the past few months, I’ve suggested reaching out to mentors, setting up virtual coffees, but I don’t think I’ve hammered home the fact that you *need* to ask for an opportunity.
 
-Start small. Utilize the endorsement and recommendations features here on LinkedIn. Ask your peers for support. Endorsements take a single click, and recommendations don’t have a word limit. 
+Start small. Utilize the endorsement and recommendations features here on LinkedIn. Ask your peers for support. Endorsements take a single click, and recommendations don’t have a word limit.
 
 There aren’t obvious cues that will make you feel comfortable asking for help. Repetition is going to make you more comfortable. Start asking for support.
 
 ### Start making a difference today
 
-Waiting for a job title is the lazy approach to leadership. If you are inside an organization and feel like you are being passed up for promotions or roles; I’ve seen two common reasons. 
+Waiting for a job title is the lazy approach to leadership. If you are inside an organization and feel like you are being passed up for promotions or roles; I’ve seen two common reasons.
 
 **Problem 1 -  Capability:** Your manager may not feel that you are capable of doing the task. The most common question I hear is, “how can I possibly get experience if I need experience in a role to perform that role.”
 
 Great job. You’ve found the problem.
 
-The solution is awareness. I haven’t heard of a situation where a person expressed their desire, volunteered time in a similar domain outside of work, or produced in-line content toward the position. 
+The solution is awareness. I haven’t heard of a situation where a person expressed their desire, volunteered time in a similar domain outside of work, or produced in-line content toward the position.
 
 **Problem 2 - Necessity:** You’re not needed for the position, or your manager might feel you are needed at your current position. You could be doing something that nobody else wants to do, or you could be doing something that nobody else can do (or possibly they can’t do it as well).
 

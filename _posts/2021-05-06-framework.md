@@ -31,7 +31,7 @@ It's critical to break that habit and reset your standards.
 
 ### Researching Methods
 
-“If I don’t know the answer, I’ll find someone who does.” I used to say that to prospects all of the time. I was doing my research strictly to find out how someone else found an answer, a single solution to the question. 
+“If I don’t know the answer, I’ll find someone who does.” I used to say that to prospects all of the time. I was doing my research strictly to find out how someone else found an answer, a single solution to the question.
 
 At some point, my most powerful learning technique was to find a YouTube video and follow along. That’s useful, but it only shows one way to accomplish a task, and it only shows a single person’s perspective. Worst of all, there was always an edit that would skip over the exact thing I didn’t know.
 
@@ -43,7 +43,7 @@ Applying lessons learned from one application to another.
 
 In a technological world, the problems are like snowflakes. Every single one is unique. But there are a ton of similarities.  You need to understand that there isn’t going to be a runbook for every issue. You time is going to be better spent on identifying gaps in your workflow.
 
-It's important to key in on the moments where you can’t find an answer. How much time do you give yourself before you reach out? How much context do you give when asking the question? Did you gather the right information? 
+It's important to key in on the moments where you can’t find an answer. How much time do you give yourself before you reach out? How much context do you give when asking the question? Did you gather the right information?
 
 When you have answers to those questions you'll be on your way!
 
