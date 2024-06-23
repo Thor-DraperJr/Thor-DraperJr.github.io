@@ -8,7 +8,7 @@ As someone who works a full-time job at Microsoft, teaches part-time, and is als
 
 ## What is Time Blocking?
 
-Time blocking is a scheduling method where you allocate specific blocks of time for different tasks and activities. It helps you prioritize tasks, reduce distractions, and maximize productivity. 
+Time blocking is a scheduling method where you allocate specific blocks of time for different tasks and activities. It helps you prioritize tasks, reduce distractions, and maximize productivity.
 
 ## My Example Schedule
 
