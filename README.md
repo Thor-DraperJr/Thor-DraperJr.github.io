@@ -7,7 +7,7 @@ layout: page
 
 What up! My name *is* Thor Draper Jr. I currently work as a Sr. Security Technical Specialist at Microsoft. In addition, I am a cybersecurity instructor at 2U education. One big thing of note is that I'm a career changer.
 
-If you're interested in learning more about my professional background then take a peek at my resume [here](https://docs.google.com/document/d/1fVRo5wngTWiR01oggedOsMEI-hbYYwAFX4POfL_GSTQ/edit?usp=sharing).
+If you're interested in learning more about my professional background then take a peek at my resume [here](https://docs.google.com/document/d/1N4-WyCdHKMZeZFeP1eDQpWHJ-N7198xA/edit?usp=sharing&ouid=108609017036717166398&rtpof=true&sd=true).
 
 ### Professional Background
 
